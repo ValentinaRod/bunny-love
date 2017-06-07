@@ -92,3 +92,44 @@ span{
 	font-family: 'Prompt', sans-serif;
 }
 
+/*tercera parte-------------*/
+
+.videos{
+	display: inline-block;
+}
+
+.tercer{
+	background-color: #0f6b87;
+}
+
+.redes-col{
+	margin: 0;
+}
+
+.col-derecha{
+	width: 100%;
+}
+
+.col-derecha,
+.columna-grande{
+	background-color: #e7f5fa;
+}
+
+.tercer h3,
+.historias h3{
+	color: #fb5e60;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+input {
+	width: 90%;
+	margin: 5%;
+	line-height: 30px;
+	border-radius: 5px;
+	border: none;
+}
+
+.search{
+	border-radius: 5px;
+}
+
