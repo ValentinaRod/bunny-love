@@ -49,3 +49,46 @@ span{
 	font-family: 'Baloo Paaji', cursive;
 }
 
+/*Primera Seccion----------*/
+
+.primera{
+	background-image: url(../img/img-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	padding: 5% 0;
+
+}
+
+.primer-cuadro{
+	background-color: rgba(15,107,135, 0.8);
+	text-align: center;
+	
+
+}
+
+.primer-cuadro h1{
+	font-family: 'Baloo Paaji', cursive;
+	color: #fb5e60;
+}
+
+/*historias de conejos-----------------*/
+
+.segundo{
+	background-color: #fff;
+}
+
+.cada-historia{
+	display: inline-block;
+}
+
+.historias{
+	background-color: #0f6b87;
+}
+
+.historias p{
+	color: #fff;
+	font-family: 'Prompt', sans-serif;
+}
+
