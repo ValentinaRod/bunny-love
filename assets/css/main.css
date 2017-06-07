@@ -133,3 +133,19 @@ input {
 	border-radius: 5px;
 }
 
+/*footer------------------------------------------------*/
+
+.conejos {
+height: 100px;
+background-image: url('../img/bunny-head.png');
+background-size: contain;
+background-repeat-y: no-repeat;
+margin: 10px 0 0;
+}
+
+.last{
+	background-color: #0f6b87;
+	color: white;
+	padding: 2% 0;
+	border-top: 2px solid #fb5e60;
+}
