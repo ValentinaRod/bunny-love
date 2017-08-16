@@ -1,3 +1,9 @@
+/**
+*** SIMPLE GRID
+*** (C) ZACH COLE 2016
+**/
+
+/* ----- MEDIA ----- */
 @media only screen and (min-width: 33.75em) {  /* 540px */
   .container {
     width: 80%;
@@ -53,7 +59,7 @@
     width: 96%;
   }
 
-  .hidden-sm {
+  .hidden {
     display: block;
   }
 }
